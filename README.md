@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O ALARM APP é um app para ajudar a não perder seus principais horários.
 
-- [Visite o projeto online](https://jefferson-gbarbosa.github.io/nlw-setup)
+- [Visite o projeto online](https://jefferson-gbarbosa.github.io/simple-alarm-app-js)
 
 
 ## :memo: Licença
