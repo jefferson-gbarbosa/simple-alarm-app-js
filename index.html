@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- css -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- boxicons -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>Alarme App JavaScript</title>
+</head>
+<body>
+    <div class="wrapper">
+        <h1>00:00:00</h1>
+        <div class="content">
+            <div class="column">
+                <select>
+                    <option value="hour" selected hidden>Horas</option>
+                </select>
+            </div>
+            <div class="column">
+                <select>
+                    <option value="minutes" selected hidden>Minutos</option>
+                </select>
+            </div>
+        </div>
+        <div class="activeAlarms">
+            <div class="alarm">
+                <span></span>
+                <button class="deleteButton"><i class='bx bx-trash'></i></button>
+            </div>
+        </div>
+        <button class="set">
+            <i class='bx bx-plus'></i>
+        </button>
+    </div>
+
+
+    <script src="js/script.js"></script>
+</body>
+</html>
