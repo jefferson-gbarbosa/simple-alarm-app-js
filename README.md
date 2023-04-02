@@ -1,13 +1,12 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Alarm App </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+ALARM APP é um simples aplicativo despertador,adicione um horário que desejar e aguarde ele fazer sua função. <br/>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +17,10 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="imgs\Preview-01 Alarme App JavaScript.png" width="100%">
+  <img alt="projeto Alarm-App" src="imgs\Preview-01 Alarme App JavaScript.png" width="100%">
+</p>
+<p align="center">
+  <img alt="projeto Alarm-App" src="imgs\Preview-02- Alarme App JavaScript (1).png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,14 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O ALARM APP é um app para ajudar a não perder seus principais horários.
 
 - [Visite o projeto online](https://jefferson-gbarbosa.github.io/nlw-setup)
 
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
